@@ -26,7 +26,7 @@ A curated paper list of Neural Network with External Memory.
 ### 2022
 
 - **Relational Memory Augmented Language Models**. Preprint, 2022. [[pdf]](https://arxiv.org/pdf/2201.09680.pdf)
-  - *Qi Liu, Dani Yogatama, Phil Blunsom1*
+  - *Qi Liu, Dani Yogatama, Phil Blunsom*
 
 ### 2021
 
