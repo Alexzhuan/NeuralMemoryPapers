@@ -25,6 +25,8 @@ A curated paper list of Neural Network with External Memory.
 
 ### 2022
 
+- **Augmenting Pre-trained Language Models with QA-Memory for Open-Domain Question Answering**. Preprint, 2022. [[pdf]](https://arxiv.org/pdf/2204.04581.pdf)
+  - *Wenhu Chen, Pat Verga, Michiel de Jong, John Wieting, William W. Cohen*
 - **Relational Memory Augmented Language Models**. Preprint, 2022. [[pdf]](https://arxiv.org/pdf/2201.09680.pdf)
   - *Qi Liu, Dani Yogatama, Phil Blunsom*
 - **Memorizing Transformers**. ICLR 2022. [[pdf]](https://arxiv.org/abs/2203.08913)
@@ -118,5 +120,7 @@ A curated paper list of Neural Network with External Memory.
   - *Alex Graves, Greg Wayne, Ivo Danihelka*
 
 ## Talks
+
+- Wenhu Chen, **Building Semi-Parametric Language Models to Integrate World Knowledge**. March, 2022. [[video]](https://www.bilibili.com/video/BV1dr4y1W7E9?p=2)
 
 ## Blogs
