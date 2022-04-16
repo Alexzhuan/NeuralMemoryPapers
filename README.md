@@ -19,6 +19,11 @@ A curated paper list of Neural Network with External Memory.
 
 ## Papers
 
+### 2018
+
+- **Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering**. CVPR 2018. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/html/Fan_Heterogeneous_Memory_Enhanced_Multimodal_Attention_Model_for_Video_Question_Answering_CVPR_2019_paper.html)
+  - *Chenyou Fan, Xiaofan Zhang, Shu Zhang, Wensheng Wang, Chi Zhang, Heng Huang*
+
 ### 2016
 
 - **Meta-Learning with Memory-Augmented Neural Networks**. ICML 2016. [[pdf]](https://proceedings.mlr.press/v48/santoro16.pdf)
