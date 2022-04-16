@@ -19,6 +19,11 @@ A curated paper list of Neural Network with External Memory.
 
 ## Papers
 
+### 2021
+
+- **Adaptive Semiparametric Language Models**. TACL, 2021. [[pdf]](https://aclanthology.org/2021.tacl-1.22/)
+  *Dani Yogatama, Cyprien de Masson d’Autume, Lingpeng Kong*
+
 ### 2020
 
 - **Learning Reasoning Strategies in End-to-End Differentiable Proving**. ICML 2020. [[pdf]](http://proceedings.mlr.press/v119/minervini20a/minervini20a.pdf)
