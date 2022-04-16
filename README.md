@@ -54,6 +54,8 @@ A curated paper list of Neural Network with External Memory.
   - *Tsendsuren Munkhdalai, Alessandro Sordoni, Tong Wang, Adam Trischler*
 - **Learning to Remember More with Less Memorization**. ICLR 2019. [[pdf]](https://arxiv.org/pdf/1901.01347.pdf)
   - *Hung Le, Truyen Tran, Svetha Venkatesh*
+- **Contextual Memory Trees**. ICML 2019. [[pdf]](http://proceedings.mlr.press/v97/sun19a/sun19a.pdf)
+  - *Wen Sun, Alina Beygelzimer, Hal Daumé Iii, John Langford, Paul Mineiro*
 
 ### 2018
 
@@ -67,6 +69,8 @@ A curated paper list of Neural Network with External Memory.
   - *Yanbei Chen, Xiatian Zhu, Shaogang Gong*
 - **Fast Parametric Learning with Activation Memorization**. ICML 2018. [[pdf]]()
   - *Jack Rae, Chris Dyer, Peter Dayan, Timothy Lillicrap*
+- **Memory, Show the Way: Memory Based Few Shot Word Representation Learning**. EMNLP 2018. [[pdf]](https://aclanthology.org/D18-1173.pdf)
+  - *Jingyuan Sun, Shaonan Wang, Chengqing Zong*
 
 ### 2017
 
