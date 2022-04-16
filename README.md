@@ -37,6 +37,10 @@ A curated paper list of Neural Network with External Memory.
   - *Dani Yogatama, Cyprien de Masson d’Autume, Lingpeng Kong*
 - **Memory-Augmented Relation Network for Few-Shot Learning**. MM 2020. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413811)
   - *Jun He, Richang Hong, Xueliang Liu, Mingliang Xu, Zheng-Jun Zha, Meng Wang*
+- **GNN-LM: Language Modeling based on Global Contexts via GNN**. ICLR 2022. [[pdf]](https://arxiv.org/abs/2110.08743)
+  - *Yuxian Meng, Shi Zong, Xiaoya Li, Xiaofei Sun, Tianwei Zhang, Fei Wu, Jiwei Li*
+- **Efficient Nearest Neighbor Language Models**. EMNLP 2021. [[pdf]](https://arxiv.org/abs/2109.04212)
+  - *Junxian He, Graham Neubig, Taylor Berg-Kirkpatrick*
 
 ### 2020
 
@@ -52,6 +56,8 @@ A curated paper list of Neural Network with External Memory.
   - *Siyuan Shan, Yang Li, Junier B. Oliva*
 - **Multigrid Neural Memory**. ICML 2020. [[pdf]](http://proceedings.mlr.press/v119/huynh20a/huynh20a.pdf)
   - *Tri Huynh, Michael Maire, Matthew R. Walter*
+- **REALM: Retrieval-Augmented Language Model Pre-Training**. Preprint, 2020. [[pdf]](https://arxiv.org/pdf/2002.08909.pdf)
+  - *Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, Ming-Wei Chang*
 
 ### 2019
 
