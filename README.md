@@ -27,6 +27,9 @@ A curated paper list of Neural Network with External Memory.
 
 - **Relational Memory Augmented Language Models**. Preprint, 2022. [[pdf]](https://arxiv.org/pdf/2201.09680.pdf)
   - *Qi Liu, Dani Yogatama, Phil Blunsom*
+- **Memorizing Transformers**. ICLR 2022. [[pdf]](https://arxiv.org/abs/2203.08913)
+  - *Yuhuai Wu, Markus N. Rabe, DeLesley Hutchins, Christian Szegedy*
+
 
 ### 2021
 
@@ -84,6 +87,8 @@ A curated paper list of Neural Network with External Memory.
   - *Caglar Gulcehre, Sarath Chandar, Yoshua Bengio*
 - **Dynamic Neural Turing Machine with Continuous and Discrete Addressing Schemes**. Neural Computation, 2018. [[pdf]](https://arxiv.org/abs/1607.00036)
   - *Caglar Gulcehre, Sarath Chandar, Kyunghyun Cho, Yoshua Bengio*
+- **Improving Neural Language Models with a Continuous Cache**. ICLR 2017. [[pdf]](https://arxiv.org/abs/1612.04426)
+  - *Edouard Grave, Armand Joulin, Nicolas Usunier*
 
 ### 2016
 
