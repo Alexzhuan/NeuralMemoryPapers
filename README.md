@@ -32,6 +32,8 @@ A curated paper list of Neural Network with External Memory.
 
 - **Adaptive Semiparametric Language Models**. TACL, 2021. [[pdf]](https://aclanthology.org/2021.tacl-1.22/)
   - *Dani Yogatama, Cyprien de Masson d’Autume, Lingpeng Kong*
+- **Memory-Augmented Relation Network for Few-Shot Learning**. MM 2020. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413811)
+  - *Jun He, Richang Hong, Xueliang Liu, Mingliang Xu, Zheng-Jun Zha, Meng Wang*
 
 ### 2020
 
@@ -39,6 +41,10 @@ A curated paper list of Neural Network with External Memory.
   - *Pasquale Minervini, Sebastian Riedel, Pontus Stenetorp, Edward Grefenstette, Tim Rocktäschel*
 - **Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection**. WSDM 2020. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3336191.3371796)
   - *Shumin Deng, Ningyu Zhang, Jiaojian Kang, Yichi Zhang, Wei Zhang, Huajun Chen*
+- **Meta-Learning Deep Energy-Based Memory Models**. ICLR 2020. [[pdf]](https://arxiv.org/abs/1910.02720)
+  - *Sergey Bartunov, Jack Rae, Simon Osindero, Timothy Lillicrap*
+- **Dynamic Memory Induction Networks for Few-Shot Text Classification**. ACL 2020. [[pdf]](https://aclanthology.org/2020.acl-main.102/)
+  - *Ruiying Geng, Binhua Li, Yongbin Li, Jian Sun, Xiaodan Zhu*
 
 ### 2019
 
