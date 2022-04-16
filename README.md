@@ -33,6 +33,8 @@ A curated paper list of Neural Network with External Memory.
 
 ### 2021
 
+- **Improving language models by retrieving from trillions of tokens**. Preprint, 2021. [[pdf]](https://arxiv.org/abs/2112.04426)
+  - *Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George van den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego de Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack W. Rae, Erich Elsen, Laurent Sifre*
 - **Adaptive Semiparametric Language Models**. TACL, 2021. [[pdf]](https://aclanthology.org/2021.tacl-1.22/)
   - *Dani Yogatama, Cyprien de Masson d’Autume, Lingpeng Kong*
 - **Memory-Augmented Relation Network for Few-Shot Learning**. MM 2020. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413811)
