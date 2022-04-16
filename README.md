@@ -41,6 +41,8 @@ A curated paper list of Neural Network with External Memory.
   - *Yuxian Meng, Shi Zong, Xiaoya Li, Xiaofei Sun, Tianwei Zhang, Fei Wu, Jiwei Li*
 - **Efficient Nearest Neighbor Language Models**. EMNLP 2021. [[pdf]](https://arxiv.org/abs/2109.04212)
   - *Junxian He, Graham Neubig, Taylor Berg-Kirkpatrick*
+- **KNN-BERT: Fine-Tuning Pre-Trained Models with KNN Classifier**. Preprint, 2021. [[pdf]](https://arxiv.org/pdf/2110.02523.pdf)
+  - *Linyang Li, Demin Song, Ruotian Ma, Xipeng Qiu, Xuanjing Huang*
 
 ### 2020
 
@@ -69,6 +71,8 @@ A curated paper list of Neural Network with External Memory.
   - *Hung Le, Truyen Tran, Svetha Venkatesh*
 - **Contextual Memory Trees**. ICML 2019. [[pdf]](http://proceedings.mlr.press/v97/sun19a/sun19a.pdf)
   - *Wen Sun, Alina Beygelzimer, Hal Daumé Iii, John Langford, Paul Mineiro*
+- **Generalization through Memorization: Nearest Neighbor Language Models**. ICLR 2020. [[pdf]](https://arxiv.org/abs/1911.00172)
+  - *Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis*
 
 ### 2018
 
