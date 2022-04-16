@@ -47,6 +47,8 @@ A curated paper list of Neural Network with External Memory.
   - *Ruiying Geng, Binhua Li, Yongbin Li, Jian Sun, Xiaodan Zhu*
 - **Meta-Neighborhoods**. NeurIPS 2020. [[pdf]](https://proceedings.neurips.cc/paper/2020/hash/35464c848f410e55a13bb9d78e7fddd0-Abstract.html)
   - *Siyuan Shan, Yang Li, Junier B. Oliva*
+- **Multigrid Neural Memory**. ICML 2020. [[pdf]](http://proceedings.mlr.press/v119/huynh20a/huynh20a.pdf)
+  - *Tri Huynh, Michael Maire, Matthew R. Walter*
 
 ### 2019
 
