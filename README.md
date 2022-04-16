@@ -27,6 +27,15 @@ A curated paper list of Neural Network with External Memory.
   - *Chao Ma, Chunhua Shen, Anthony Dick, Qi Wu, Peng Wang, Anton van den Hengel, Ian Reid*
 - **Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering**. CVPR 2018. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/html/Fan_Heterogeneous_Memory_Enhanced_Multimodal_Attention_Model_for_Video_Question_Answering_CVPR_2019_paper.html)
   - *Chenyou Fan, Xiaofan Zhang, Shu Zhang, Wensheng Wang, Chi Zhang, Heng Huang*
+- **Semi-Supervised Deep Learning with Memory**. ECCV 2018. [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/html/Yanbei_Chen_Semi-Supervised_Deep_Learning_ECCV_2018_paper.html)
+  - *Yanbei Chen, Xiatian Zhu, Shaogang Gong*
+
+### 2017
+
+- **Memory Augmented Neural Networks with Wormhole Connections**. Preprint, 2017. [[pdf]](https://arxiv.org/pdf/1701.08718.pdf)
+  - *Caglar Gulcehre, Sarath Chandar, Yoshua Bengio*
+- **Dynamic Neural Turing Machine with Continuous and Discrete Addressing Schemes**. Neural Computation, 2018. [[pdf]](https://arxiv.org/abs/1607.00036)
+  - *Caglar Gulcehre, Sarath Chandar, Kyunghyun Cho, Yoshua Bengio*
 
 ### 2016
 
