@@ -21,6 +21,8 @@ A curated paper list of Neural Network with External Memory.
 
 ### 2018
 
+- **Visual Question Answering with Memory-Augmented Networks**. CVPR 2018. [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/html/Ma_Visual_Question_Answering_CVPR_2018_paper.html)
+  - *Chao Ma, Chunhua Shen, Anthony Dick, Qi Wu, Peng Wang, Anton van den Hengel, Ian Reid*
 - **Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering**. CVPR 2018. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/html/Fan_Heterogeneous_Memory_Enhanced_Multimodal_Attention_Model_for_Video_Question_Answering_CVPR_2019_paper.html)
   - *Chenyou Fan, Xiaofan Zhang, Shu Zhang, Wensheng Wang, Chi Zhang, Heng Huang*
 
