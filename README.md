@@ -34,6 +34,8 @@ A curated paper list of Neural Network with External Memory.
   - *Dani Yogatama, Cyprien de Masson d’Autume, Lingpeng Kong*
 - **Memory-Augmented Relation Network for Few-Shot Learning**. MM 2020. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413811)
   - *Jun He, Richang Hong, Xueliang Liu, Mingliang Xu, Zheng-Jun Zha, Meng Wang*
+- **Meta-Neighborhoods**. NeurIPS 2020. [[pdf]](https://proceedings.neurips.cc/paper/2020/hash/35464c848f410e55a13bb9d78e7fddd0-Abstract.html)
+  - *Siyuan Shan, Yang Li, Junier B. Oliva*
 
 ### 2020
 
