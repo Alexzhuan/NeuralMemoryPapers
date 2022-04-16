@@ -14,10 +14,19 @@ A curated paper list of Neural Network with External Memory.
 
 ## Surveys & Overview
 
+- **A Survey on Retrieval-Augmented Text Generation**. Preprint, 2022. [[pdf]](https://arxiv.org/abs/2202.01110)
+  - *Huayang Li, Yixuan Su, Deng Cai, Yan Wang, Lemao Liu*
+- **Artefact Retrieval: Overview of NLP Models with Knowledge Base Access**. Preprint, 2021. [[pdf]](https://arxiv.org/pdf/2201.09651.pdf)
+  - *Vilém Zouhar, Marius Mosbach, Debanjali Biswas, Dietrich Klakow*
 - **A Taxonomy for Neural Memory Networks**. Preprint, 2018. [[pdf]](https://arxiv.org/pdf/1805.00327.pdf)
   - *Ying Ma, Jose Principe*
 
 ## Papers
+
+### 2022
+
+- **Relational Memory Augmented Language Models**. Preprint, 2022. [[pdf]](https://arxiv.org/pdf/2201.09680.pdf)
+  - *Qi Liu, Dani Yogatama, Phil Blunsom1*
 
 ### 2021
 
