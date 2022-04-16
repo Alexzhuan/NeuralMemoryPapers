@@ -19,6 +19,22 @@ A curated paper list of Neural Network with External Memory.
 
 ## Papers
 
+### 2020
+
+- **Learning Reasoning Strategies in End-to-End Differentiable Proving**. ICML 2020. [[pdf]](http://proceedings.mlr.press/v119/minervini20a/minervini20a.pdf)
+  - *Pasquale Minervini, Sebastian Riedel, Pontus Stenetorp, Edward Grefenstette, Tim Rocktäschel*
+- **Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection**. WSDM 2020. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3336191.3371796)
+  - *Shumin Deng, Ningyu Zhang, Jiaojian Kang, Yichi Zhang, Wei Zhang, Huajun Chen*
+
+### 2019
+
+- **Non-Parametric Adaptation for Neural Machine Translation**. NAACL 2019. [[pdf]](https://aclanthology.org/N19-1191.pdf)
+  - *Ankur Bapna, Orhan Firat*
+- **Metalearned Neural Memory**. NeurIPS 2019. [[pdf]](https://proceedings.neurips.cc/paper/2019/file/182bd81ea25270b7d1c2fe8353d17fe6-Paper.pdf)
+  - *Tsendsuren Munkhdalai, Alessandro Sordoni, Tong Wang, Adam Trischler*
+- **Learning to Remember More with Less Memorization**. ICLR 2019. [[pdf]](https://arxiv.org/pdf/1901.01347.pdf)
+  - *Hung Le, Truyen Tran, Svetha Venkatesh*
+
 ### 2018
 
 - **Memory-based Parameter Adaptation**. ICLR 2018. [[pdf]](https://arxiv.org/pdf/1802.10542.pdf)
@@ -29,6 +45,8 @@ A curated paper list of Neural Network with External Memory.
   - *Chenyou Fan, Xiaofan Zhang, Shu Zhang, Wensheng Wang, Chi Zhang, Heng Huang*
 - **Semi-Supervised Deep Learning with Memory**. ECCV 2018. [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/html/Yanbei_Chen_Semi-Supervised_Deep_Learning_ECCV_2018_paper.html)
   - *Yanbei Chen, Xiatian Zhu, Shaogang Gong*
+- **Fast Parametric Learning with Activation Memorization**. ICML 2018. [[pdf]]()
+  - *Jack Rae, Chris Dyer, Peter Dayan, Timothy Lillicrap*
 
 ### 2017
 
