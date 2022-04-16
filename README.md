@@ -14,6 +14,9 @@ A curated paper list of Neural Network with External Memory.
 
 ## Surveys & Overview
 
+- **A Taxonomy for Neural Memory Networks**. Preprint, 2018. [[pdf]](https://arxiv.org/pdf/1805.00327.pdf)
+  - *Ying Ma, Jose Principe*
+
 ## Papers
 
 ### 2016
