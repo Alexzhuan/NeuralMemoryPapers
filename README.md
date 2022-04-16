@@ -75,6 +75,8 @@ A curated paper list of Neural Network with External Memory.
   - *Jack Rae, Chris Dyer, Peter Dayan, Timothy Lillicrap*
 - **Memory, Show the Way: Memory Based Few Shot Word Representation Learning**. EMNLP 2018. [[pdf]](https://aclanthology.org/D18-1173.pdf)
   - *Jingyuan Sun, Shaonan Wang, Chengqing Zong*
+- **Working Memory Networks: Augmenting Memory Networks with a Relational Reasoning Module**. ACL 2018. [[pdf]](https://aclanthology.org/P18-1092.pdf)
+  - *Juan Pavez, Héctor Allende, Héctor Allende-Cid*
 
 ### 2017
 
