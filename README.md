@@ -21,6 +21,8 @@ A curated paper list of Neural Network with External Memory.
 
 ### 2018
 
+- **Memory-based Parameter Adaptation**. ICLR 2018. [[pdf]](https://arxiv.org/pdf/1802.10542.pdf)
+  - *Pablo Sprechmann, Siddhant M. Jayakumar, Jack W. Rae, Alexander Pritzel, Adrià Puigdomènech Badia, Benigno Uria, Oriol Vinyals, Demis Hassabis, Razvan Pascanu, Charles Blundell*
 - **Visual Question Answering with Memory-Augmented Networks**. CVPR 2018. [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/html/Ma_Visual_Question_Answering_CVPR_2018_paper.html)
   - *Chao Ma, Chunhua Shen, Anthony Dick, Qi Wu, Peng Wang, Anton van den Hengel, Ian Reid*
 - **Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering**. CVPR 2018. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/html/Fan_Heterogeneous_Memory_Enhanced_Multimodal_Attention_Model_for_Video_Question_Answering_CVPR_2019_paper.html)
