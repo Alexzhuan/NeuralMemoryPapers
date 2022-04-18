@@ -58,6 +58,8 @@ This is paper list about **neural network with external memory**.
   - *Junxian He, Graham Neubig, Taylor Berg-Kirkpatrick*
 - **KNN-BERT: Fine-Tuning Pre-Trained Models with KNN Classifier**. Preprint, 2021. [[pdf]](https://arxiv.org/pdf/2110.02523.pdf)
   - *Linyang Li, Demin Song, Ruotian Ma, Xipeng Qiu, Xuanjing Huang*
+- **Rethinking Nearest Neighbors for Visual Classification**. Preprint, 2021. [[pdf]](https://arxiv.org/pdf/2112.08459.pdf)
+  - *Menglin Jia, Bor-Chun Chen, Zuxuan Wu, Claire Cardie, Serge Belongie, Ser-Nam Lim*
 
 ### 2020
 
