@@ -7,10 +7,20 @@ A curated paper list of Neural Network with External Memory.
 
 ## Contents
   
+  - [Introduction](#introduction)
+    - [Keywords Convention]
   - [Surveys & Overview](#surveys--overview)
   - [Papers](#papers)
   - [Talks](#talks)
   - [Blogs](#blogs)
+
+## Introduction
+
+This is paper list about **neural network with external memory**. 
+
+### Keywords Convention
+
+![](https://img.shields.io/badge/Memory-Instance-orange) The key type of memory for retrieving in the work. For example, in the instance-key memory, the representation of an example in the dataset is used as an key in memory.
 
 ## Surveys & Overview
 
@@ -116,8 +126,8 @@ A curated paper list of Neural Network with External Memory.
 ### 2014
 - **Memory Networks**. ICLR 2015. [[pdf]](https://arxiv.org/pdf/1410.3916.pdf)
   - *Jason Weston, Sumit Chopra, Antoine Bordes*
-- **Neural Turing Machines**, Preprint, 2014. [[pdf]](https://arxiv.org/abs/1410.5401)
-  - *Alex Graves, Greg Wayne, Ivo Danihelka*
+- **Neural Turing Machines**, Preprint, 2014. ![](https://img.shields.io/badge/Memory-Virtual-orange) [[pdf]](https://arxiv.org/abs/1410.5401) 
+  - *Alex Graves, Greg Wayne, Ivo Danihelka* 
 
 ## Talks
 
