@@ -20,7 +20,7 @@ This is paper list about **neural network with external memory**.
 
 ### Keywords Convention
 
-![](https://img.shields.io/badge/Memory-Instance-orange) The key type of memory for retrieving in the work. For example, in the instance-key memory, the representation of an example in the dataset is used as an key in memory.
+- ![](https://img.shields.io/badge/Memory-Instance-orange) The key type of memory for retrieving in the work. For example, in the instance-key memory, the representation of an example in the dataset is used as an key in memory.
 
 ## Surveys & Overview
 
