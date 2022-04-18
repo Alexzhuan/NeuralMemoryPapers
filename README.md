@@ -20,6 +20,8 @@ This is paper list about **neural network with external memory**.
 
 ### Keywords Convention
 
+
+- ![](https://img.shields.io/badge/Task-Text%20Generation-blue) The tasks involved in the work.
 - ![](https://img.shields.io/badge/Memory-Instance-orange) The key type of memory for retrieving in the work. For example, in the instance-key memory, the representation of an example in the dataset is used as an key in memory.
 
 ## Surveys & Overview
@@ -53,7 +55,7 @@ This is paper list about **neural network with external memory**.
   - *Jun He, Richang Hong, Xueliang Liu, Mingliang Xu, Zheng-Jun Zha, Meng Wang*
 - **GNN-LM: Language Modeling based on Global Contexts via GNN**. ICLR 2022. [[pdf]](https://arxiv.org/abs/2110.08743)
   - *Yuxian Meng, Shi Zong, Xiaoya Li, Xiaofei Sun, Tianwei Zhang, Fei Wu, Jiwei Li*
-- **Efficient Nearest Neighbor Language Models**. EMNLP 2021. [[pdf]](https://arxiv.org/abs/2109.04212)
+- **Efficient Nearest Neighbor Language Models**. EMNLP 2021. ![](https://img.shields.io/badge/Task-Text%20Generation-blue) [[pdf]](https://arxiv.org/abs/2109.04212)
   - *Junxian He, Graham Neubig, Taylor Berg-Kirkpatrick*
 - **KNN-BERT: Fine-Tuning Pre-Trained Models with KNN Classifier**. Preprint, 2021. [[pdf]](https://arxiv.org/pdf/2110.02523.pdf)
   - *Linyang Li, Demin Song, Ruotian Ma, Xipeng Qiu, Xuanjing Huang*
