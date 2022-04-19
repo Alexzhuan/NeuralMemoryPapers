@@ -118,6 +118,10 @@ This is paper list about **neural network with external memory**.
   - *Caglar Gulcehre, Sarath Chandar, Kyunghyun Cho, Yoshua Bengio*
 - **Improving Neural Language Models with a Continuous Cache**. ICLR 2017. [[pdf]](https://arxiv.org/abs/1612.04426)
   - *Edouard Grave, Armand Joulin, Nicolas Usunier*
+- **Large Memory Layers with Product Keys**. NeurIPS 2017. [[pdf]](https://proceedings.neurips.cc/paper/2019/file/9d8df73a3cfbf3c5b47bc9b50f214aff-Paper.pdf)
+  - *Guillaume Lample, Alexandre Sablayrolles, Marc'Aurelio Ranzato, Ludovic Denoyer, Herve Jegou*
+- **Learning to Remember Rare Events**. ICLR 2017. [[pdf]](https://arxiv.org/abs/1703.03129)
+  - *Łukasz Kaiser, Ofir Nachum, Aurko Roy, Samy Bengio*
 
 ### 2016
 
