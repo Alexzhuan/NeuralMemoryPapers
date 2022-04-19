@@ -36,6 +36,8 @@ This is paper list about **neural network with external memory**.
 
 ### 2022
 
+- **Unsupervised Cross-Task Generalization via Retrieval Augmentation**. Preprint, 2022. [[pdf]](https://arxiv.org/pdf/2204.07937.pdf)
+  - *Bill Yuchen Lin, Kangmin Tan, Chris Miller, Beiwen Tian, Xiang Ren*
 - **Augmenting Pre-trained Language Models with QA-Memory for Open-Domain Question Answering**. Preprint, 2022. [[pdf]](https://arxiv.org/pdf/2204.04581.pdf)
   - *Wenhu Chen, Pat Verga, Michiel de Jong, John Wieting, William W. Cohen*
 - **Relational Memory Augmented Language Models**. Preprint, 2022. [[pdf]](https://arxiv.org/pdf/2201.09680.pdf)
