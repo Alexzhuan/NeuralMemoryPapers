@@ -92,6 +92,8 @@ This is paper list about **neural network with external memory**.
   - *Wen Sun, Alina Beygelzimer, Hal Daumé Iii, John Langford, Paul Mineiro*
 - **Generalization through Memorization: Nearest Neighbor Language Models**. ICLR 2020. [[pdf]](https://arxiv.org/abs/1911.00172)
   - *Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis*
+- **Meta-Learning Neural Bloom Filter**. ICML 2019. [[pdf]](http://proceedings.mlr.press/v97/rae19a/rae19a.pdf)
+  - *Jack Rae, Sergey Bartunov, Timothy Lillicrap*
 
 ### 2018
 
