@@ -79,6 +79,8 @@ This is paper list about **neural network with external memory**.
   - *Tri Huynh, Michael Maire, Matthew R. Walter*
 - **REALM: Retrieval-Augmented Language Model Pre-Training**. Preprint, 2020. [[pdf]](https://arxiv.org/pdf/2002.08909.pdf)
   - *Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, Ming-Wei Chang*
+- **MEMO: A Deep Network for Flexible Combination of Episodic Memories**. ICLR 2020. [[pdf]](https://arxiv.org/abs/2001.10913)
+  - *Andrea Banino, Adrià Puigdomènech Badia, Raphael Köster, Martin J. Chadwick, Vinicius Zambaldi, Demis Hassabis, Caswell Barry, Matthew Botvinick, Dharshan Kumaran, Charles Blundell*
 
 ### 2019
 
