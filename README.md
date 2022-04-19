@@ -62,6 +62,8 @@ This is paper list about **neural network with external memory**.
   - *Linyang Li, Demin Song, Ruotian Ma, Xipeng Qiu, Xuanjing Huang*
 - **Rethinking Nearest Neighbors for Visual Classification**. Preprint, 2021. [[pdf]](https://arxiv.org/pdf/2112.08459.pdf)
   - *Menglin Jia, Bor-Chun Chen, Zuxuan Wu, Claire Cardie, Serge Belongie, Ser-Nam Lim*
+- **Augmenting Transformers with KNN-Based Composite Memory for Dialog**. TACL, 2021. [[pdf]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00356/97779/Augmenting-Transformers-with-KNN-Based-Composite)
+  - *Angela Fan, Claire Gardent, Chloé Braud, Antoine Bordes*
 
 ### 2020
 
