@@ -137,7 +137,7 @@ This is paper list about **neural network with external memory**.
   - *Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, Timothy Lillicrap*
 - **Hybrid computing using a neural network with dynamic external memory**. Nature, 2016. [[pdf]](https://www.nature.com/articles/nature20101?ref=https://githubhelp.com)
   - *Alex Graves, Greg Wayne, Malcolm Reynolds, Tim Harley, Ivo Danihelka, Agnieszka Grabska-Barwińska, Sergio Gómez Colmenarejo, Edward Grefenstette, Tiago Ramalho, John Agapiou, Adrià Puigdomènech Badia, Karl Moritz Hermann, Yori Zwols, Georg Ostrovski, Adam Cain, Helen King, Christopher Summerfield, Phil Blunsom1, Koray Kavukcuoglu, Demis Hassabis*
-- **Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes**. NeurIPS 2016. [[pdf]](https://proceedings.neurips.cc/paper/2016/file/3fab5890d8113d0b5a4178201dc842ad-Paper.pdf)
+- **Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes**. NeurIPS 2016. ![](https://img.shields.io/badge/Memory-Virtual-orange) [[pdf]](https://proceedings.neurips.cc/paper/2016/file/3fab5890d8113d0b5a4178201dc842ad-Paper.pdf)
   - *Jack Rae, Jonathan J. Hunt, Ivo Danihelka, Timothy Harley, Andrew W. Senior, Gregory Wayne, Alex Graves, Timothy Lillicrap*
 
 ### 2014
