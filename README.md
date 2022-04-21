@@ -44,6 +44,8 @@ This is paper list about **neural network with external memory**.
   - *Qi Liu, Dani Yogatama, Phil Blunsom*
 - **Memorizing Transformers**. ICLR 2022. [[pdf]](https://arxiv.org/abs/2203.08913)
   - *Yuhuai Wu, Markus N. Rabe, DeLesley Hutchins, Christian Szegedy*
+- **Improving Meta-learning for Low-resource Text Classification and Generation via Memory Imitation**. ACL 2022. [[pdf]](https://arxiv.org/abs/2203.11670)
+  - *Yingxiu Zhao, Zhiliang Tian, Huaxiu Yao, Yinhe Zheng, Dongkyu Lee, Yiping Song, Jian Sun, Nevin L. Zhang*
 
 
 ### 2021
