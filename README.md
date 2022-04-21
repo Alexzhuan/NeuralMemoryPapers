@@ -102,7 +102,9 @@ This is paper list about **neural network with external memory**.
   - *Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis*
 - **Meta-Learning Neural Bloom Filter**. ICML 2019. [[pdf]](http://proceedings.mlr.press/v97/rae19a/rae19a.pdf)
   - *Jack Rae, Sergey Bartunov, Timothy Lillicrap*
-
+- **Adaptive Posterior Learning: few-shot learning with a surprise-based memory module**. ICLR 2019. [[pdf]](https://arxiv.org/abs/1902.02527)
+  - *Tiago Ramalho, Marta Garnelo*
+  
 ### 2018
 
 - **Memory-based Parameter Adaptation**. ICLR 2018. [[pdf]](https://arxiv.org/pdf/1802.10542.pdf)
