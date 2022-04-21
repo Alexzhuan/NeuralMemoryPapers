@@ -122,6 +122,7 @@ This is paper list about **neural network with external memory**.
 - **Working Memory Networks: Augmenting Memory Networks with a Relational Reasoning Module**. ACL 2018. [[pdf]](https://aclanthology.org/P18-1092.pdf)
   - *Juan Pavez, Héctor Allende, Héctor Allende-Cid*
 - **Memory Matching Networks for One-Shot Image Recognition**. CVPR 2018. [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Cai_Memory_Matching_Networks_CVPR_2018_paper.pdf)
+  - *Qi Cai, Yingwei Pan, Ting Yao, Chenggang Yan, Tao Mei*
 
 ### 2017
 
