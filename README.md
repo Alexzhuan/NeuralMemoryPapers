@@ -87,6 +87,8 @@ This is paper list about **neural network with external memory**.
   - *Andrea Banino, Adrià Puigdomènech Badia, Raphael Köster, Martin J. Chadwick, Vinicius Zambaldi, Demis Hassabis, Caswell Barry, Matthew Botvinick, Dharshan Kumaran, Charles Blundell*
 - **Self-Attentive Associative Memory**. ICML 2020. [[pdf]](https://arxiv.org/pdf/2002.03519.pdf)
   - *Hung Le, Truyen Tran, Svetha Venkatesh*
+- **Efficient Meta Lifelong-Learning with Limited Memory**. EMNLP 2020. [[pdf]](https://aclanthology.org/2020.emnlp-main.39.pdf)
+  - *Zirui Wang, Sanket Vaibhav Mehta, Barnabás Póczos, Jaime Carbonell*
 
 ### 2019
 
@@ -104,6 +106,8 @@ This is paper list about **neural network with external memory**.
   - *Jack Rae, Sergey Bartunov, Timothy Lillicrap*
 - **Adaptive Posterior Learning: few-shot learning with a surprise-based memory module**. ICLR 2019. [[pdf]](https://arxiv.org/abs/1902.02527)
   - *Tiago Ramalho, Marta Garnelo*
+- **Episodic Memory in Lifelong Language Learning**. NeurIPS 2019. [[pdf]](https://arxiv.org/pdf/1906.01076.pdf)
+  - *Cyprien de Masson d'Autume, Sebastian Ruder, Lingpeng Kong, Dani Yogatama*
   
 ### 2018
 
