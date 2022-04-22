@@ -68,6 +68,8 @@ This is paper list about **neural network with external memory**.
   - *Menglin Jia, Bor-Chun Chen, Zuxuan Wu, Claire Cardie, Serge Belongie, Ser-Nam Lim*
 - **Augmenting Transformers with KNN-Based Composite Memory for Dialog**. TACL, 2021. [[pdf]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00356/97779/Augmenting-Transformers-with-KNN-Based-Composite)
   - *Angela Fan, Claire Gardent, Chloé Braud, Antoine Bordes*
+- **GraphMemDialog: Optimizing End-to-End Task-Oriented Dialog Systems Using Graph Memory Networks** AAAI 2022. [[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-7257.WuJ.pdf)
+  - Jie WuIan G. Harris, Hongzhi Zhao*
 
 ### 2020
 
@@ -110,6 +112,8 @@ This is paper list about **neural network with external memory**.
   - *Tiago Ramalho, Marta Garnelo*
 - **Episodic Memory in Lifelong Language Learning**. NeurIPS 2019. [[pdf]](https://arxiv.org/pdf/1906.01076.pdf)
   - *Cyprien de Masson d'Autume, Sebastian Ruder, Lingpeng Kong, Dani Yogatama*
+- **A Working Memory Model for Task-oriented Dialog Response Generation**. ACL 2018. [[pdf]](https://aclanthology.org/P19-1258.pdf)
+  - *Xiuyi Chen, Jiaming Xu, Bo Xu*
   
 ### 2018
 
@@ -129,6 +133,8 @@ This is paper list about **neural network with external memory**.
   - *Juan Pavez, Héctor Allende, Héctor Allende-Cid*
 - **Memory Matching Networks for One-Shot Image Recognition**. CVPR 2018. [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Cai_Memory_Matching_Networks_CVPR_2018_paper.pdf)
   - *Qi Cai, Yingwei Pan, Ting Yao, Chenggang Yan, Tao Mei*
+- **Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems**. ACL 2018. [[pdf]](https://aclanthology.org/P18-1136.pdf)
+  - *Andrea Madotto, Chien-Sheng Wu, Pascale Fung*
 
 ### 2017
 
@@ -144,6 +150,8 @@ This is paper list about **neural network with external memory**.
   - *Łukasz Kaiser, Ofir Nachum, Aurko Roy, Samy Bengio*
 - **Meta Networks**. ICML 2019. [[pdf]](https://arxiv.org/pdf/1703.00837.pdf)
   - *Tsendsuren Munkhdalai, Hong Yu*
+- **Learning End-to-End Goal-Oriented Dialog**. ICLR 2017. [[pdf]](https://arxiv.org/abs/1605.07683)
+  - *Antoine Bordes, Y-Lan Boureau, Jason Weston*
 
 ### 2016
 
