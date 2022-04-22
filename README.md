@@ -151,6 +151,8 @@ This is paper list about **neural network with external memory**.
   - *Alex Graves, Greg Wayne, Malcolm Reynolds, Tim Harley, Ivo Danihelka, Agnieszka Grabska-Barwińska, Sergio Gómez Colmenarejo, Edward Grefenstette, Tiago Ramalho, John Agapiou, Adrià Puigdomènech Badia, Karl Moritz Hermann, Yori Zwols, Georg Ostrovski, Adam Cain, Helen King, Christopher Summerfield, Phil Blunsom1, Koray Kavukcuoglu, Demis Hassabis*
 - **Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes**. NeurIPS 2016. ![](https://img.shields.io/badge/Memory-Virtual-orange) [[pdf]](https://proceedings.neurips.cc/paper/2016/file/3fab5890d8113d0b5a4178201dc842ad-Paper.pdf)
   - *Jack Rae, Jonathan J. Hunt, Ivo Danihelka, Timothy Harley, Andrew W. Senior, Gregory Wayne, Alex Graves, Timothy Lillicrap*
+- **Key-Value Memory Networks for Directly Reading Documents**. EMNLP 2016. [[pdf]](https://arxiv.org/abs/1606.03126)
+  - *Alexander Miller, Adam Fisch, Jesse Dodge, Amir-Hossein Karimi, Antoine Bordes, Jason Weston*
 
 ### 2014
 - **Memory Networks**. ICLR 2015. ![](https://img.shields.io/badge/Task-QA-blue) ![](https://img.shields.io/badge/Memory-Fact%20Triple-orange) [[pdf]](https://arxiv.org/pdf/1410.3916.pdf)
