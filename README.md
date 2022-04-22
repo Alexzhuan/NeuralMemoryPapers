@@ -18,6 +18,8 @@ A curated paper list of Neural Network with External Memory.
 
 This is paper list about **neural network with external memory**. 
 
+<div align=center><img src="resources/img.png" width="50%" height="50%" /></div>
+
 ### Keywords Convention
 
 - ![](https://img.shields.io/badge/Task-Text%20Generation-blue) The tasks involved in the work.
