@@ -48,6 +48,8 @@ This is paper list about **neural network with external memory**.
   - *Yuhuai Wu, Markus N. Rabe, DeLesley Hutchins, Christian Szegedy*
 - **Improving Meta-learning for Low-resource Text Classification and Generation via Memory Imitation**. ACL 2022. ![](https://img.shields.io/badge/Task-Text%20Generation-blue) ![](https://img.shields.io/badge/Task-Text%20Classification-blue) ![](https://img.shields.io/badge/Memory-Instance-orange) [[pdf]](https://arxiv.org/abs/2203.11670)
   - *Yingxiu Zhao, Zhiliang Tian, Huaxiu Yao, Yinhe Zheng, Dongkyu Lee, Yiping Song, Jian Sun, Nevin L. Zhang*
+- **Dynamic Key-value Memory Enhanced Multi-step Graph Reasoning for Knowledge-based Visual Question Answering**. AAAI 2022. [[pdf]](https://arxiv.org/abs/2203.02985)
+  - *Mingxiao Li, Marie-Francine Moens*
 
 
 ### 2021
@@ -68,8 +70,10 @@ This is paper list about **neural network with external memory**.
   - *Menglin Jia, Bor-Chun Chen, Zuxuan Wu, Claire Cardie, Serge Belongie, Ser-Nam Lim*
 - **Augmenting Transformers with KNN-Based Composite Memory for Dialog**. TACL, 2021. [[pdf]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00356/97779/Augmenting-Transformers-with-KNN-Based-Composite)
   - *Angela Fan, Claire Gardent, Chloé Braud, Antoine Bordes*
-- **GraphMemDialog: Optimizing End-to-End Task-Oriented Dialog Systems Using Graph Memory Networks** AAAI 2022. [[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-7257.WuJ.pdf)
+- **GraphMemDialog: Optimizing End-to-End Task-Oriented Dialog Systems Using Graph Memory Networks**. AAAI 2022. [[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-7257.WuJ.pdf)
   - Jie WuIan G. Harris, Hongzhi Zhao*
+- **Memory-based Jitter: Improving Visual Recognition on Long-tailed Data with Diversity In Memory**. AAAI 2022. [[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-521.LiuJ.pdf)
+  - *Jialun Liu, Wenhui Li, Yifan Sun*
 
 ### 2020
 
@@ -114,6 +118,8 @@ This is paper list about **neural network with external memory**.
   - *Cyprien de Masson d'Autume, Sebastian Ruder, Lingpeng Kong, Dani Yogatama*
 - **A Working Memory Model for Task-oriented Dialog Response Generation**. ACL 2018. [[pdf]](https://aclanthology.org/P19-1258.pdf)
   - *Xiuyi Chen, Jiaming Xu, Bo Xu*
+- **Enhancing Key-Value Memory Neural Networks for Knowledge Based Question Answering**. NAACL 2019. [[pdf]](https://aclanthology.org/N19-1301/)
+  - *Kun Xu, Yuxuan Lai, Yansong Feng, Zhiguo Wang*
   
 ### 2018
 
