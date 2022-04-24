@@ -16,7 +16,7 @@ A curated paper list of Neural Network with External Memory.
 
 ## Introduction
 
-This is paper list about **neural network with external memory**. 
+This is a paper list about **neural network with external memory**. 
 
 <div align=center><img src="resources/img.png" width="50%" height="50%" /></div>
 
