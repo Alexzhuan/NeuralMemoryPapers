@@ -50,7 +50,7 @@ This is a paper list about **neural network with external memory**.
   - *Yingxiu Zhao, Zhiliang Tian, Huaxiu Yao, Yinhe Zheng, Dongkyu Lee, Yiping Song, Jian Sun, Nevin L. Zhang*
 - **Dynamic Key-value Memory Enhanced Multi-step Graph Reasoning for Knowledge-based Visual Question Answering**. AAAI 2022. [[pdf]](https://arxiv.org/abs/2203.02985)
   - *Mingxiao Li, Marie-Francine Moens*
-- **Relation Extraction as Open-book Examination: Retrieval-enhanced Prompt Tuning**. SIGIR 2022. [[pdf]](https://arxiv.org/pdf/2205.02355.pdf)
+- **Relation Extraction as Open-book Examination: Retrieval-enhanced Prompt Tuning**. SIGIR 2022. ![](https://img.shields.io/badge/Task-Relation%20Extraction-blue) ![](https://img.shields.io/badge/Memory-Instance-orange) [[pdf]](https://arxiv.org/pdf/2205.02355.pdf)
   - *Xiang Chen, Lei Li, Ningyu Zhang, Chuanqi Tan, Fei Huang, Luo Si, Huajun Chen*
 
 
